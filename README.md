@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghadier-Alenezi
-- 👀 I’m interested in programming and web development
+- 👀 I’m interested in programming, web development and Data science
 - 🌱 I’m currently learning JS with Tuwaiq bootcamp
 
 <!---
